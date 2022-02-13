@@ -47,7 +47,7 @@ Create each user interface in a separate folder.
 
 Keep a lookout for code we can share between these interfaces, but code duplication is not a strong concern in this project.
 
-1. Console application, saving to a JSON (?) file
+1. Console application, saving to a JSON file
 2. Web client-side only, saving to localStorage
 3. Web API only, saving to SQLite or MongoDB
 4. Web full-stack, saving to SQL Server, MySQL or Postgres
