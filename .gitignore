@@ -1,0 +1,7 @@
+.vscode/launch.json
+.ionide/symbolCache.db
+
+FSharpAgendaConsole/bin
+FSharpAgendaConsole/obj
+.fake
+.ionide
